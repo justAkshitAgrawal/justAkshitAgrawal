@@ -1,6 +1,6 @@
 <p align="center">
 
-<a href="#"><img width="auto" height="auto" src="https://i.ibb.co/nsLYYMV/pp.png"/></a>
+<img width="auto" height="auto" src="https://i.ibb.co/nsLYYMV/pp.png"/>
 </p>
 <h1 align="center">Hi, I'm Akshit Agrawal</h1>
 <h3 align="center">Full Stack Developer</h3>
