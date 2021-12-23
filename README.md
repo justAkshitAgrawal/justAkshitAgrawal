@@ -1,10 +1,11 @@
-<a href="#"><img width="auto" height="auto" src="https://i.imgur.com/LRBpNf7.jpeg"/></a>
+<center>
+<a href="#"><img width="auto" height="auto" src="https://i.ibb.co/nsLYYMV/pp.png"/></a>
 
 <h1 align="center">Hi, I'm Akshit Agrawal</h1>
 <h3 align="center">Full Stack Developer</h3>
 
 <br>
-<center>
+
 
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
 
